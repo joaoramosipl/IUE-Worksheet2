@@ -14,6 +14,7 @@
 		BF521922233696760066B3E3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BF521920233696760066B3E3 /* LaunchScreen.storyboard */; };
 		BF52192D233696760066B3E3 /* IUE_Worksheet2Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF52192C233696760066B3E3 /* IUE_Worksheet2Tests.swift */; };
 		BF521938233696760066B3E3 /* IUE_Worksheet2UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF521937233696760066B3E3 /* IUE_Worksheet2UITests.swift */; };
+		BF5219462336AF160066B3E3 /* HomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF5219452336AF160066B3E3 /* HomeViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		BF521933233696760066B3E3 /* IUE-Worksheet2UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "IUE-Worksheet2UITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		BF521937233696760066B3E3 /* IUE_Worksheet2UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IUE_Worksheet2UITests.swift; sourceTree = "<group>"; };
 		BF521939233696760066B3E3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		BF5219452336AF160066B3E3 /* HomeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				BF52191E233696760066B3E3 /* Assets.xcassets */,
 				BF521920233696760066B3E3 /* LaunchScreen.storyboard */,
 				BF521923233696760066B3E3 /* Info.plist */,
+				BF5219452336AF160066B3E3 /* HomeViewController.swift */,
 			);
 			path = "IUE-Worksheet2";
 			sourceTree = "<group>";
@@ -258,6 +261,7 @@
 			files = (
 				BF52191A233696750066B3E3 /* ViewController.swift in Sources */,
 				BF521918233696750066B3E3 /* AppDelegate.swift in Sources */,
+				BF5219462336AF160066B3E3 /* HomeViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
